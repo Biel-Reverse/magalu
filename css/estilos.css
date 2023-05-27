@@ -2,7 +2,7 @@
 
 h1 img {
 	
-		width: 1245px;
+		width: 1300px;
 		height:200px;
 		position:absolute;
 		top:20;
@@ -21,13 +21,13 @@ h1 img {
 						
 						text-align: right;
 						
-						width: 1180px;
+						width: 1200px;
 						
 						height:60px;
 						
 						position:absolute;
 						
-						margin-top:70px;
+						margin-top:130px;
 						top:0;
 }
 						
@@ -91,7 +91,7 @@ background-image: url('../Images/Frete.png'	);
 						
 						text-align: right;
 						
-						width:890px;
+						width:840px;
 						
 						height:90px;
 						
@@ -100,4 +100,286 @@ background-image: url('../Images/Frete.png'	);
 						margin-top:5;
 						
 						top:-90px;
+}
+
+.busca,
+.menu-departamentos {
+	
+					float: left;
+					
+					font-weight: bold;
+					text-transform: uppercase;
+					
+					background-position: top right;
+	
+						font-size: 14px;
+						
+						
+						
+						text-align: right;
+						
+						width: 500px;
+						
+						height:90px;
+						
+						position:absolute;
+						
+						margin-top:85px;
+						top:0;
+					
+					
+}
+
+.busca form,
+
+.menu-departamentos h2 { 
+
+					margin:10px;
+					
+}
+
+.menu-departamentos a {
+			
+			
+			text-decoration: none;
+}
+
+.menu-departamentos li { 
+		
+		background-color: white;
+		
+		margin-bottom:1px;
+		
+		padding:5px 10px;
+}
+.menu-departamentos {
+	
+						clear: left;
+						
+						margin-top:10px;
+						padding-bottom:10px;
+						
+						{text-transform: uppercase;}
+}
+
+.item-menu {text-decoration:none;}
+
+busca input[type=search] {
+	
+						
+						width:400px;
+}
+
+.container-departamento{
+
+background-image: url('../Images/departamento.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top right;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1260px;
+						
+						height:35px;
+						
+						position:absolute;
+						
+						margin-top:145px;
+						top:0;
+}
+
+.container-atendimento {
+	
+	background-image: url('../Images/atendimento.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1470px;
+						
+						height:35px;
+						
+						position:absolute;
+						
+						margin-top:-90px;
+						top:0px;
+}
+
+.container-Bem-vindo {
+	
+	background-image: url('../Images/Bem-vindo.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1460px;
+						
+						height:355px;
+						
+						position:absolute;
+						
+						margin-top:20px;
+						top:0px;
+						
+}
+.container-destaque { 
+
+background-image: url('../Images/destaque.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1265px;
+						
+						height:800px;
+						
+						position:absolute;
+						
+						margin-top:40px;
+						top:100px;
+}
+
+.container-destaques { 
+
+background-image: url('../Images/destaques.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1265px;
+						
+						height:800px;
+						
+						position:absolute;
+						
+						margin-top:215px;
+						top:100px;
+}
+
+.container-cadastro { 
+
+background-image: url('../Images/cadastro.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1265px;
+						
+						height:800px;
+						
+						position:absolute;
+						
+						margin-top:380px;
+						top:100px;
+}
+.container-produto { 
+
+background-image: url('../Images/produto.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1265px;
+						
+						height:800px;
+						
+						position:absolute;
+						
+						margin-top:380px;
+						top:100px;
+}
+.container-produtos { 
+
+background-image: url('../Images/produtos.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1265px;
+						
+						height:800px;
+						
+						position:absolute;
+						
+						margin-top:600px;
+						top:100px;
+}
+
+.container-final { 
+
+background-image: url('../Images/final.PNG'	);
+	
+	background-repeat: no-repeat;
+
+	background-position: top ;
+	
+						font-size: 14px;
+						
+						padding-right: 35px;
+						
+						text-align: right;
+						
+						width: 1265px;
+						
+						height:800px;
+						
+						position:absolute;
+						
+						margin-top:450px;
+						top:100px;
 }
