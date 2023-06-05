@@ -102,7 +102,10 @@ background-image: url('../Images/Frete.png'	);
 						top:-90px;
 }
 
-.busca,
+.busca{
+	width:590px;
+	
+}
 .menu-departamentos {
 	
 					float: left;
@@ -112,7 +115,7 @@ background-image: url('../Images/Frete.png'	);
 					
 					background-position: top right;
 	
-						font-size: 14px;
+						font-size: px;
 						
 						
 						
@@ -124,8 +127,8 @@ background-image: url('../Images/Frete.png'	);
 						
 						position:absolute;
 						
-						margin-top:85px;
-						top:0;
+						margin-top:100px;
+						top:20px;
 					
 					
 }
@@ -134,7 +137,7 @@ background-image: url('../Images/Frete.png'	);
 
 .menu-departamentos h2 { 
 
-					margin:10px;
+					margin:100px;
 					
 }
 
@@ -148,16 +151,16 @@ background-image: url('../Images/Frete.png'	);
 		
 		background-color: white;
 		
-		margin-bottom:1px;
+		margin-bottom:10px;
 		
-		padding:5px 10px;
+		padding:1px 5px;
 }
 .menu-departamentos {
 	
 						clear: left;
 						
-						margin-top:10px;
-						padding-bottom:10px;
+						margin-top:100px;
+						padding-bottom:100px;
 						
 						{text-transform: uppercase;}
 }
@@ -167,7 +170,7 @@ background-image: url('../Images/Frete.png'	);
 busca input[type=search] {
 	
 						
-						width:400px;
+						width:100px;
 }
 
 .container-departamento{
